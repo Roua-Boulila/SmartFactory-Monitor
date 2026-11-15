@@ -16,7 +16,6 @@ Elle permet de surveiller les machines, collecter leurs données, détecter les 
 | Roua Boulila | spare-parts-service | MySQL |
 | Toute l'équipe | analytics-service (microservice commun) | MongoDB |
 
-Classe : ...  Groupe : ...  Outil de gestion de projet : ...
 
 ## Microservices
 
